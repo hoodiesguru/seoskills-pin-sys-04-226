@@ -1,0 +1,8 @@
+# Computational Systems Lab #04
+
+> Empirical Research in Token Economics, AST Parsing, and Multi-Agent Runtimes
+
+## Published Research
+- [Token Economics and Latency Profiling Across 12 Autonomous AI Developer Environments](token-economics-latency-profiling-ai-developer-environments.html): A comprehensive cost-benefit analysis of local AST tool execution versus cloud-based LLM inference for search optimization pipelines.
+- [Algorithmic Information Gain and Entity Knowledge Graph Construction in 2026](algorithmic-information-gain-entity-knowledge-graph-construction.html): Analyzing search engine information gain patents and the mathematics of novelty scoring in neural information retrieval.
+- [Multi-Agent Swarm Architectures for High-Speed Static Site Indexation and Edge CDN Routing](multi-agent-swarm-architectures-static-site-indexation.html): Deploying coordinated subagents across global edge CDNs for rapid content distribution and automated Core Web Vitals optimization.
